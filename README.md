@@ -18,6 +18,8 @@
 
 Metaschool produces friendly tutorials for devs to quickly pick up, build and ship stuff in web3. We are also working on producing learning path for devs to help them deeply understand the web3 protocols, L1 & L2 and find guaranteed opportunities with international companies. 
 
+Level up your web3 skills with Metaschool. From quick tutorials to in-depth learning paths, we've got you covered. Plus, discover guaranteed opportunities with top global companies.
+
 We do all sort of discussion in our discord and we'd love to see you learn and participate. [Join our discord here.](https://discord.gg/SGsMtjg2sx)
 
 ## 🔮 Learning Projects
